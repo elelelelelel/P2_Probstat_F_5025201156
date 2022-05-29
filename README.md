@@ -96,7 +96,39 @@ Bisa dilihat bahwa mean dan convidence sama dengan 1b, yang berbeda adalah p-val
 
 #### 2a
 Apakah Anda setuju dengan klaim tersebut?
-    Setuju, karena
-    https://user-images.githubusercontent.com/86004023/170864898-71408114-19ec-4d85-92af-c91e08e90283.png
+
+    Setuju, karena kesimpulan dari uji z menolak H0, sehingga mobil dikemudikan memiliki rata-rata lebih dari 20000 kilometer per tahun
     
-</br>
+    <img width="599" alt="image" src="https://user-images.githubusercontent.com/86004023/170872041-a7cbbf8a-bf24-4190-a9b5-c6236cbbfd73.png">
+    
+    </br>
+#### 2b
+Jelaskan maksud dari output yang dihasilkan!
+       Diketahui n = 100, Rata-Rata (X̄) = 23500, dan standar deviasi(σ) = 3900 Maka null hipotesis adalah
+       Maka null hipotesis adalah 
+          ```
+          H0 : μ = 20000
+          ```
+          Alternatif hipotesisnya yaitu
+          ```
+          H1 : μ > 20000
+          ```
+
+       <img width="472" alt="image" src="https://user-images.githubusercontent.com/86004023/170864744-4f24236a-662f-4b7c-a92e-c253bd78cb65.png">
+       
+       </br>
+
+#### 2c
+Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
+  
+       Untuk mencari nilai z nya yaitu 
+       </br>
+       ![image-removebg-preview](https://user-images.githubusercontent.com/70510279/170823253-92e9ca27-09f7-4d40-a51c-9fd4392bb742.png)
+
+       Lalu mencari nilai p-value nya sebagai berikut
+               
+       ![image-removebg-preview (2)](https://user-images.githubusercontent.com/70510279/170823338-3d86d1f2-14dc-458c-af6a-eb06f0fd8333.png)
+
+       Sehingga kesimpulan yang didapat adalah bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun, dari hasil p-value tersebut hipotesis awal dapat ditolak dan H1 diterima
+
+       </br>
