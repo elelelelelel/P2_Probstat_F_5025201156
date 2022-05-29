@@ -75,7 +75,7 @@ Langkah pertama yaitu melihat hasil komparasi dua variabel berikut
 ```
 var.test(before, after)
 ```
-![1c-1](https://user-images.githubusercontent.com/70510279/170803286-8d17ff49-ab43-4c8d-b68f-8252e50de12c.jpg)
+ </br> <img width="593" alt="image" src="https://user-images.githubusercontent.com/86004023/170858996-31f369f7-66ad-4279-9b12-2562a1f0e027.png">
 
 </br>
 
@@ -83,7 +83,7 @@ Selanjutnya, untuk melihat pengaruh jika tingkat signifikasi 5% dan tidak ada pe
 ```
 t.test(before, after, var.equal = TRUE)
 ```
-![1c-2](https://user-images.githubusercontent.com/70510279/170803288-c8b36ba6-954b-49b3-83e1-51e6236efe74.jpg)
+</br> <img width="692" alt="image" src="https://user-images.githubusercontent.com/86004023/170859040-a1c6aaaa-0fe0-4834-8778-eedcf4530034.png">
 
 </br>
 
