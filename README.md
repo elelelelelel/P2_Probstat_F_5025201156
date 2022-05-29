@@ -134,11 +134,10 @@ Sehingga kesimpulan yang didapat adalah bahwa mobil dikemudikan rata-rata lebih 
 
 ### Nomor 3
 > Diketahui perusahaan memiliki seorang data analyst ingin memecahkan permasalahan pengambilan keputusan dalam perusahaan tersebut. Selanjutnya didapatkanlah data berikut dari perusahaan saham tersebut.
-</br>
-![3](https://user-images.githubusercontent.com/94628041/170876269-25b98e2d-2acc-4bfe-859b-e2796212cfe5.jpg)
-</br>
+![3](https://user-images.githubusercontent.com/94628041/170876369-5440c260-e1ed-40a5-a460-9f1ea5947c39.jpg)
 
-Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada rata-ratanya (α= 0.05)? Buatlah :
+
+> Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada rata-ratanya (α= 0.05)? Buatlah :
 
 #### 3a
 H0 dan H1
