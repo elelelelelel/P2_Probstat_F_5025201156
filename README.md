@@ -96,7 +96,7 @@ Bisa dilihat bahwa mean dan convidence sama dengan 1b, yang berbeda adalah p-val
 
 #### 2a
 Apakah Anda setuju dengan klaim tersebut?
-    Setuju, karena kesimpulan dari uji z menolak H0, sehingga mobil dikemudikan memiliki rata-rata lebih dari 20000 kilometer per tahun
+    Setuju, karena
+    https://user-images.githubusercontent.com/86004023/170864898-71408114-19ec-4d85-92af-c91e08e90283.png
     
-    <img width="599" alt="image" src="https://user-images.githubusercontent.com/86004023/170872041-a7cbbf8a-bf24-4190-a9b5-c6236cbbfd73.png">
 </br>
