@@ -97,7 +97,9 @@ Bisa dilihat bahwa mean dan convidence sama dengan 1b, yang berbeda adalah p-val
 #### 2a
 Apakah Anda setuju dengan klaim tersebut?
 
-*Setuju*
+*Setuju* karena
+<img width="223" alt="170864898-71408114-19ec-4d85-92af-c91e08e90283" src="https://user-images.githubusercontent.com/94628041/170875491-13efd72d-246e-4a7e-8a60-d46193bc6cf6.png">
+
 
 #### 2b
 Jelaskan maksud dari output yang dihasilkan!
