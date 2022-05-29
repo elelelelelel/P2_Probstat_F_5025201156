@@ -49,10 +49,10 @@ print(my_data)
            # Standar Devisiasi after activity
            SD_after <-sd(after)
            SD_after
-       ```         
-     Maka hasilnya : 
+       ```        
+  Maka hasilnya : 
 
-     <img width="347" alt="image" src="https://user-images.githubusercontent.com/86004023/170858149-b2e4b403-f4a1-4515-97bd-e990edcbd699.png">
+  <img width="347" alt="image" src="https://user-images.githubusercontent.com/86004023/170858149-b2e4b403-f4a1-4515-97bd-e990edcbd699.png">
 
 #### 1b
 carilah nilai t (p-value)
