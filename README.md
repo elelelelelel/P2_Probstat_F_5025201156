@@ -29,7 +29,7 @@ after <- c(100, 95, 70, 90, 90, 90, 89, 90, 100)
 Setelah dimasukkan semua datanya, maka dilakukan cek data menggunakan `data.frame` yaitu
 ```
 my_data <- data.frame(
-    group = rep(c("sebelum", "sesudah"), each = 9),
+    group = rep(c("before", "after"), each = 9),
     saturation = c(before, after)
 )
 ```
