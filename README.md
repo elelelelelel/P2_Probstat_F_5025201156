@@ -5,6 +5,9 @@ Nama    : Nazhifah Elqolby
 NRP     : 5025201156
 Kelas   : Probstat F
 ```
+
+
+### Soal 1 
 Seorang peneliti melakukan penelitian mengenai pengaruh aktivitas 𝐴 terhadap kadar saturasi oksigen pada manusia. Peneliti tersebut mengambil sampel sebanyak 9 responden. Pertama, sebelum melakukan aktivitas 𝐴, peneliti mencatat kadar saturasi oksigen dari 9 responden tersebut. Kemudian, 9 responden tersebut diminta melakukan aktivitas 𝐴. Setelah 15 menit, peneliti tersebut mencatat kembali kadar saturasi oksigen dari 9 responden tersebut. Berikut data dari 9 responden mengenai kadar saturasi oksigen sebelum dan sesudah melakukan aktivitas 𝐴
 
 ![soal 1](https://user-images.githubusercontent.com/70510279/170801862-fb8feada-e470-4bdd-90c8-2b1b050563ca.jpg)
@@ -34,26 +37,22 @@ Setelah itu dilihat hasil framenya sebagai berikut
 ```
 print(my_data)
 ```
-![1a-1](https://user-images.githubusercontent.com/70510279/170801700-5a72cc8a-a5e8-4331-9466-534b5adba1b0.jpg)
+ <img width="435" alt="image" src="https://user-images.githubusercontent.com/86004023/170858094-792f1a04-8114-4add-80cf-c51cdc4fcd86.png">
 
-Selanjutnya mencari standar deviasinya. Standar deviasi sebelum aktivitas adalah
-```
-SD_before <- sd(before)
-SD_before
-```
-Maka hasilnya : 
-</br>
-![1a-2](https://user-images.githubusercontent.com/70510279/170802086-33f51947-7316-4eb1-a173-8b27355b2c21.jpg)
-</br>
+    Selanjutnya mencari standar deviasinya. Standar deviasi sebelum dan sesudah aktivitas adalah
+    
+      ```
+          # Standar Devisiasi before activity
+          SD_before <- sd(before)
+          SD_before
+          
+           # Standar Devisiasi after activity
+           SD_after <-sd(after)
+           SD_after
+       ```         
+     Maka hasilnya : 
 
-Standar deviasi setelah aktivitas adalah
-```
-SD_after <-sd(after)
-SD_after
-```
-Maka hasilnya : 
-</br>
-![1a-3](https://user-images.githubusercontent.com/70510279/170802089-d7e550cd-e308-41a0-9881-dee36fcec0f8.jpg)
+     <img width="347" alt="image" src="https://user-images.githubusercontent.com/86004023/170858149-b2e4b403-f4a1-4515-97bd-e990edcbd699.png">
 
 #### 1b
 carilah nilai t (p-value)
