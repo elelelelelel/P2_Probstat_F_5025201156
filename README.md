@@ -88,3 +88,16 @@ t.test(before, after, var.equal = TRUE)
 </br>
 
 Bisa dilihat bahwa mean dan convidence sama dengan 1b, yang berbeda adalah p-value dan df. Sehingga tidak memiliki pengaruh yang signifikan secara statistika
+
+</br>
+
+## Soal 2
+> Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun. Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata 23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan 2 library seperti referensi pada modul).
+
+#### 2a
+Apakah Anda setuju dengan klaim tersebut?
+Setuju, karena kesimpulan dari uji z menolak H0, sehingga mobil dikemudikan memiliki rata-rata lebih dari 20000 kilometer per tahun
+    
+</br> <img width="599" alt="image" src="https://user-images.githubusercontent.com/86004023/170872041-a7cbbf8a-bf24-4190-a9b5-c6236cbbfd73.png">
+    
+</br>
