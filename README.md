@@ -99,7 +99,8 @@ Apakah Anda setuju dengan klaim tersebut?
 
 *Setuju* karena
 <br>
-<img width="223" alt="2222222" src="https://user-images.githubusercontent.com/94628041/170875583-43af693a-d428-42fd-881b-79ef77453332.png">
+![asd](https://user-images.githubusercontent.com/94628041/170875937-da4f00f8-cf81-425e-82b4-93a91a335def.jpg)
+
 
 
 
